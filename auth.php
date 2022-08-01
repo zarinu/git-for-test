@@ -2,7 +2,7 @@
 
 class auth
 {
-    public static function login() {
-        
+    public function login($token) {
+        dd('har anche hasti baz aaaa!');
     }
 }
