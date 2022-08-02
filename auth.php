@@ -2,7 +2,7 @@
 
 class auth
 {
-    public function login($token) {
-        dd('har anche hasti baz aaaa!');
+    public static function register() {
+        return 'man ro bezan';
     }
 }
